@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<svg width="680" height="205.71429" xmlns="http://www.w3.org/2000/svg">
+
+ <metadata id="metadata7">image/svg+xml</metadata>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="layer1">
+   <rect opacity="0.5" fill="#fff6d5" fill-rule="nonzero" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dashoffset="0" y="-0.5" x="1" height="205.71429" width="680" id="rect5528"/>
+   <g id="g4393">
+    <g fill="#666d6f" id="g4352">
+     <path fill="#666d6f" fill-rule="evenodd" stroke-width="1px" d="m20.02232,86.619957l0,1l132.000004,0l0,-1l-132.000004,0z" id="path3163"/>
+     <path fill="#666d6f" fill-rule="evenodd" stroke-width="0.4pt" marker-start="none" d="m20.026783,87.124992l2,-2l-7,2l7,2l-2,-2z" id="path4358"/>
+     <path fill="#666d6f" fill-rule="evenodd" stroke-width="0.4pt" marker-start="none" d="m152.026779,87.124992l-2,2l7,-2l-7,-2l2,2z" id="path4360"/>
+    </g>
+    <g id="g4362">
+     <g fill="#666d6f" id="g4342">
+      <path fill="#666d6f" fill-rule="evenodd" stroke-width="1px" id="path3161" d="m86.209824,15.58871l0,142.375005l1,0l0,-142.375005l-1,0z"/>
+      <path fill="#666d6f" fill-rule="evenodd" stroke-width="0.4pt" marker-start="none" id="path4348" d="m86.714272,15.598231l2,2.000001l-2,-7.000001l-2,7.000001l2,-2.000001z"/>
+      <path fill="#666d6f" fill-rule="evenodd" stroke-width="0.4pt" marker-start="none" id="path4350" d="m86.714272,157.955353l-2,-2l2,7l2,-7l-2,2z"/>
+     </g>
+     <path fill="none" fill-rule="evenodd" stroke="#d20000" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" id="path2188" d="m148.802994,11.895686c-2.020309,6.313447 -26.288353,47.185884 -40.784912,46.34073c-13.170181,-0.767761 -27.274124,-15.278534 -43.941635,-15.278534c-16.667515,0 -27.526653,18.435272 -27.400387,44.572964c0.123222,25.507324 13.061707,44.4925 27.274117,43.941658c16.2887,-0.631348 29.73595,-13.400398 44.194164,-14.899788c17.046333,-1.767761 39.143425,41.668831 40.153572,44.194221"/>
+    </g>
+   </g>
+   <g id="g4405">
+    <g fill="#666d6f" id="g4407">
+     <path fill="#666d6f" fill-rule="evenodd" stroke-width="1px" d="m193.209824,86.486023l0,1l132.000015,0l0,-1l-132.000015,0z" id="path4409"/>
+     <path fill="#666d6f" fill-rule="evenodd" stroke-width="0.4pt" marker-start="none" d="m193.214279,86.991058l2,-2l-7,2l7,2l-2,-2z" id="path4411"/>
+     <path fill="#666d6f" fill-rule="evenodd" stroke-width="0.4pt" marker-start="none" d="m325.214294,86.991058l-2,2l7,-2l-7,-2l2,2z" id="path4413"/>
+    </g>
+    <g id="g4415">
+     <g fill="#666d6f" id="g4417">
+      <path fill="#666d6f" fill-rule="evenodd" stroke-width="1px" id="path4419" d="m259.397339,15.454777l0,142.375011l1,0l0,-142.375011l-1,0z"/>
+      <path fill="#666d6f" fill-rule="evenodd" stroke-width="0.4pt" marker-start="none" id="path4421" d="m259.901764,15.464298l2,2l-2,-7l-2,7l2,-2z"/>
+      <path fill="#666d6f" fill-rule="evenodd" stroke-width="0.4pt" marker-start="none" id="path4423" d="m259.901764,157.821426l-2,-2l2,7l2,-7l-2,2z"/>
+     </g>
+     <path fill="none" fill-rule="evenodd" stroke="#d20000" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" id="path4425" d="m321.990479,11.761752c-2.020294,6.313447 -26.28833,47.185884 -40.784912,46.34073c-13.170166,-0.767761 -27.274109,-15.278534 -43.94162,-15.278534c-16.667511,0 -27.526657,18.435272 -27.400391,44.572964c0.12323,25.507324 13.061707,44.492508 27.274124,43.941666c16.288696,-0.631348 29.735947,-13.400406 44.194168,-14.899796c17.046326,-1.767761 39.143433,41.668839 40.153564,44.194229"/>
+    </g>
+   </g>
+   <g id="g4427">
+    <g fill="#666d6f" id="g4429">
+     <path fill="#666d6f" fill-rule="evenodd" stroke-width="1px" d="m366.066956,86.664597l0,1l132,0l0,-1l-132,0z" id="path4431"/>
+     <path fill="#666d6f" fill-rule="evenodd" stroke-width="0.4pt" marker-start="none" d="m366.071442,87.169632l2,-2l-7,2l7,2l-2,-2z" id="path4433"/>
+     <path fill="#666d6f" fill-rule="evenodd" stroke-width="0.4pt" marker-start="none" d="m498.071411,87.169632l-2,2l7,-2l-7,-2l2,2z" id="path4435"/>
+    </g>
+    <g id="g4437">
+     <g fill="#666d6f" id="g4439">
+      <path fill="#666d6f" fill-rule="evenodd" stroke-width="1px" id="path4441" d="m432.254486,15.633348l0,142.374999l1,0l0,-142.374999l-1,0z"/>
+      <path fill="#666d6f" fill-rule="evenodd" stroke-width="0.4pt" marker-start="none" id="path4443" d="m432.758911,15.642869l2,2.000001l-2,-7.000001l-2,7.000001l2,-2.000001z"/>
+      <path fill="#666d6f" fill-rule="evenodd" stroke-width="0.4pt" marker-start="none" id="path4445" d="m432.758911,157.999985l-2,-2l2,7l2,-7l-2,2z"/>
+     </g>
+     <path fill="none" fill-rule="evenodd" stroke="#d20000" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" id="path4447" d="m494.847656,11.940324c-2.020325,6.313447 -26.288361,47.185885 -40.784912,46.340732c-13.170197,-0.767761 -27.274139,-15.278534 -43.94165,-15.278534c-16.667511,0 -27.526642,18.435272 -27.400391,44.572964c0.12323,25.507324 13.061707,44.492493 27.274109,43.94165c16.288696,-0.631348 29.735962,-13.400391 44.194183,-14.89978c17.046326,-1.767761 39.143402,41.668823 40.153564,44.194214"/>
+    </g>
+   </g>
+   <g id="g4449">
+    <g fill="#666d6f" id="g4451">
+     <path fill="#666d6f" fill-rule="evenodd" stroke-width="1px" d="m534.28125,86.486023l0,1l132,0l0,-1l-132,0z" id="path4453"/>
+     <path fill="#666d6f" fill-rule="evenodd" stroke-width="0.4pt" marker-start="none" d="m534.285706,86.991058l2,-2l-7,2l7,2l-2,-2z" id="path4455"/>
+     <path fill="#666d6f" fill-rule="evenodd" stroke-width="0.4pt" marker-start="none" d="m666.285706,86.991058l-2,2l7,-2l-7,-2l2,2z" id="path4457"/>
+    </g>
+    <g id="g4459">
+     <g fill="#666d6f" id="g4461">
+      <path fill="#666d6f" fill-rule="evenodd" stroke-width="1px" id="path4463" d="m600.46875,15.454776l0,142.375012l1,0l0,-142.375012l-1,0z"/>
+      <path fill="#666d6f" fill-rule="evenodd" stroke-width="0.4pt" marker-start="none" id="path4465" d="m600.973206,15.464297l2,2.000001l-2,-7.000001l-2,7.000001l2,-2.000001z"/>
+      <path fill="#666d6f" fill-rule="evenodd" stroke-width="0.4pt" marker-start="none" id="path4467" d="m600.973206,157.821426l-2,-2l2,7l2,-7l-2,2z"/>
+     </g>
+     <path fill="none" fill-rule="evenodd" stroke="#d20000" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" id="path4469" d="m663.06189,11.761752c-2.020325,6.313447 -26.28833,47.185884 -40.784912,46.34073c-13.170166,-0.767761 -27.274109,-15.278534 -43.941589,-15.278534c-16.667542,0 -27.526672,18.435272 -27.400391,44.572964c0.123169,25.507324 13.061707,44.492508 27.274109,43.941666c16.288696,-0.631348 29.735962,-13.400406 44.194153,-14.899796c17.046326,-1.767761 39.143433,41.668839 40.153564,44.194229"/>
+    </g>
+   </g>
+   <path fill="none" fill-rule="evenodd" stroke="#0078cb" stroke-width="1px" id="path4485" d="m550.843689,11.769435l0,149.502568"/>
+   <path fill="#0078cb" fill-rule="nonzero" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" d="m552.392883,86.89286a1.500001,1.500001 0 1 1 -3,0a1.500001,1.500001 0 1 1 3,0z" id="path5458"/>
+   <path fill="none" fill-rule="evenodd" stroke="#0078cb" stroke-width="1px" id="path5460" d="m396.714264,11.891566l0,149.502568"/>
+   <text font-size="16px" font-style="italic" font-weight="bold" fill="#000000" stroke-width="1px" font-family="Times New Roman" id="text5462" y="83.79965" x="536.64805" xml:space="preserve">
+    <tspan y="83.79965" x="536.64805" id="tspan5464">P</tspan>
+   </text>
+   <text font-size="16px" font-style="italic" font-weight="bold" fill="#000000" stroke-width="1px" font-family="Times New Roman" id="text5466" y="51.93972" x="381.80412" xml:space="preserve">
+    <tspan y="51.93972" x="381.80412" id="tspan5468">P</tspan>
+   </text>
+   <text font-size="16px" font-style="italic" font-weight="bold" fill="#000000" stroke-width="1px" font-family="Times New Roman" id="text5470" y="21.22543" x="127.56921" xml:space="preserve">
+    <tspan y="21.22543" x="127.56921" id="tspan5472">R</tspan>
+   </text>
+   <path fill="#0078cb" fill-rule="nonzero" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" d="m398.392853,47.892822a1.500001,1.500001 0 1 1 -3,0a1.500001,1.500001 0 1 1 3,0z" id="path5474"/>
+   <path fill="#0078cb" fill-rule="nonzero" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" d="m398.392853,126.285683a1.500001,1.500001 0 1 1 -3,0a1.500001,1.500001 0 1 1 3,0z" id="path5476"/>
+   <path fill="none" fill-rule="evenodd" stroke="#0078cb" stroke-width="1px" id="path5478" d="m185.017853,54.03442l150.357117,92.716892"/>
+   <text font-size="16px" font-style="italic" font-weight="bold" fill="#000000" stroke-width="1px" font-family="Times New Roman" id="text5480" y="137.53964" x="380.90348" xml:space="preserve">
+    <tspan y="137.53964" x="380.90348" id="tspan5482">Q</tspan>
+   </text>
+   <text font-size="16px" font-style="italic" font-weight="bold" fill="#000000" stroke-width="1px" font-family="Times New Roman" id="text5484" y="114.68246" x="291.61775" xml:space="preserve">
+    <tspan y="114.68246" x="291.61775" id="tspan5486">Q</tspan>
+   </text>
+   <text font-size="16px" font-style="italic" font-weight="bold" fill="#000000" stroke-width="1px" font-family="Times New Roman" id="text5488" y="78.72546" x="195.73271" xml:space="preserve">
+    <tspan y="78.72546" x="195.73271" id="tspan5490">P</tspan>
+   </text>
+   <path fill="#0078cb" fill-rule="nonzero" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" d="m294.285706,120.39283a1.500001,1.500001 0 1 1 -3,0a1.500001,1.500001 0 1 1 3,0z" id="path5492"/>
+   <path fill="#0078cb" fill-rule="nonzero" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" d="m212.857132,70.571404a1.500001,1.500001 0 1 1 -3,0a1.500001,1.500001 0 1 1 3,0z" id="path5494"/>
+   <path fill="none" fill-rule="evenodd" stroke="#0078cb" stroke-width="1px" id="path5496" d="m11.605862,121.10714l147.181126,-109.107144"/>
+   <text font-size="16px" font-style="italic" font-weight="bold" fill="#000000" stroke-width="1px" font-family="Times New Roman" id="text5498" y="103.18179" x="22.927067" xml:space="preserve">
+    <tspan y="103.18179" x="22.927067" id="tspan5500">P</tspan>
+   </text>
+   <text font-size="16px" font-style="italic" font-weight="bold" fill="#000000" stroke-width="1px" font-family="Times New Roman" id="text5502" y="49.61596" x="90.8647" xml:space="preserve">
+    <tspan y="49.61596" x="90.8647" id="tspan5504">Q</tspan>
+   </text>
+   <path fill="#0078cb" fill-rule="nonzero" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" d="m39.565014,101.294151a1.500001,1.500001 0 1 1 -3,0a1.500001,1.500001 0 1 1 3,0z" id="path5506"/>
+   <path fill="#0078cb" fill-rule="nonzero" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" d="m100.931778,56.21611a1.500001,1.500001 0 1 1 -3,0a1.500001,1.500001 0 1 1 3,0z" id="path5508"/>
+   <path fill="#0078cb" fill-rule="nonzero" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" d="m143.610718,24.270033a1.500001,1.500001 0 1 1 -3,0a1.500001,1.500001 0 1 1 3,0z" id="path5510"/>
+   <text font-size="16px" font-style="normal" font-weight="normal" fill="#000000" stroke-width="1px" font-family="Arial" id="text5512" y="19.33371" x="11.000004" xml:space="preserve">
+    <tspan y="19.33371" x="11.000004" id="tspan5514">1</tspan>
+   </text>
+   <text font-size="16px" font-style="normal" font-weight="normal" fill="#000000" stroke-width="1px" font-family="Arial" id="text5516" y="19.33371" x="188.58183" xml:space="preserve">
+    <tspan y="19.33371" x="188.58183" id="tspan5518">2</tspan>
+   </text>
+   <text font-size="16px" font-style="normal" font-weight="normal" fill="#000000" stroke-width="1px" font-family="Arial" id="text5520" y="19.23214" x="358.14024" xml:space="preserve">
+    <tspan y="19.23214" x="358.14024" id="tspan5522">3</tspan>
+   </text>
+   <text font-size="16px" font-style="normal" font-weight="normal" fill="#000000" stroke-width="1px" font-family="Arial" id="text5524" y="19.31027" x="527.86271" xml:space="preserve">
+    <tspan y="19.31027" x="527.86271" id="tspan5526">4</tspan>
+   </text>
+   <path fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-width="10" stroke-linecap="square" stroke-miterlimit="4" id="path6499" d="m173.142853,4.499996l0,196.071431"/>
+   <path fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-width="10" stroke-linecap="square" stroke-miterlimit="4" id="path6501" d="m345.462006,4.143032l0,196.071415"/>
+   <path fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-width="10" stroke-linecap="square" stroke-miterlimit="4" id="path6503" d="m516.682861,4.143032l0,196.071415"/>
+   <text font-size="16px" font-style="italic" font-weight="bold" fill="#000000" stroke-width="1px" font-family="Times New Roman" id="text6505" y="193.15341" x="39.33206" xml:space="preserve">
+    <tspan y="193.15341" x="39.33206" id="tspan6507">P + Q + R = 0</tspan>
+   </text>
+   <text font-size="16px" font-style="italic" font-weight="bold" fill="#000000" stroke-width="1px" font-family="Times New Roman" id="text6509" y="193.15341" x="212.80101" xml:space="preserve">
+    <tspan y="193.15341" x="212.80101" id="tspan6511">P + Q + Q = 0</tspan>
+   </text>
+   <text font-size="16px" font-style="italic" font-weight="bold" fill="#000000" stroke-width="1px" font-family="Times New Roman" id="text6513" y="193.15341" x="390.70741" xml:space="preserve">
+    <tspan y="193.15341" x="390.70741" id="tspan6515">P + Q + 0 = 0</tspan>
+   </text>
+   <text font-size="16px" font-style="italic" font-weight="bold" fill="#000000" stroke-width="1px" font-family="Times New Roman" id="text6517" y="194.69638" x="558.83256" xml:space="preserve">
+    <tspan y="194.69638" x="558.83256" id="tspan6519">P + P + 0 = 0</tspan>
+   </text>
+  </g>
+  <line stroke="#000" stroke-dasharray="2,2" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_2" y2="146.357166" x2="142" y1="23.857139" x1="142" fill="none"/>
+  <text stroke="#000" transform="matrix(0.925059 0 0 1 10.8173 0)" font-weight="bold" font-style="italic" xml:space="preserve" text-anchor="left" font-family="'Times New Roman', Times, serif" font-size="18" id="svg_3" y="158.357147" x="122.351899" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">R</text>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_4" y2="10.607955" x2="140.498755" y1="5.607998" x1="141.998742" fill-opacity="null" stroke-opacity="null" stroke="#000" fill="none"/>
+  <line stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_5" y2="10.607955" x2="140.498755" y1="5.607998" x1="141.998742" fill-opacity="null" stroke-opacity="null" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_6" y2="182" x2="107" y1="177" x1="108" fill-opacity="null" stroke-opacity="null" stroke="#000" fill="none"/>
+  <path d="m140.998749,138.606827" id="svg_7" fill-opacity="null" stroke-opacity="null" stroke="#000" fill="none"/>
+  <path stroke="#000" d="m141.998749,140.606812c0,-0.499985 0,-0.999985 0,-1.499985l0,0" id="svg_8" fill-opacity="null" stroke-opacity="null" fill="none"/>
+  <ellipse ry="0.749993" rx="0.749993" id="svg_9" cy="148.356749" cx="142.24874" fill-opacity="null" stroke-opacity="null" stroke-width="null" stroke="#000" fill="none"/>
+ </g>
+</svg>
