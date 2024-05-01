@@ -50,11 +50,9 @@
 
 #slide(title: "Обмен в доцифровую эпоху")[
   #side-by-side[
-    #uncover("2-")[
-      #image("img/coins.jpg", width: 100%)
-    ]
+    #image("img/coins.jpg", width: 100%)
   ][
-    #uncover("3-")[
+    #uncover("2-")[
       #image("img/cheque.jpg", width: 100%)
     ]
   ]
@@ -63,14 +61,12 @@
 #slide(title: "Компьютерные системы и Интернет")[
   #side-by-side[
     #align(center)[
-      #uncover(3)[
+      #uncover("2-")[
         #text(4em)[???]
       ]
     ]
   ][
-    #uncover("2-")[
-      #image("img/card.png", width: 100%)
-    ]
+    #image("img/card.png", width: 100%)
   ]
 ]
 
@@ -102,12 +98,15 @@
     - Необратимые операции
     - Низкая стоимость транзакций
     - Обязательная авторизация
+    - Приватность
   ]
 ]
 
 #slide(title: "Новая модель приватности")[
   #align(center)[
-    #image("img/privacy-model.svg", width: 100%)
+    #rect(fill: gray)[
+      #image("img/privacy-model.svg", width: 100%)
+    ]
   ]
 ]
 
@@ -173,6 +172,7 @@
   - $f^(-1)_(S)(c) = m$ -- _легко_
 ]
 
+// TODO: Добавить картинку
 #slide(title: "Цифровая подпись: общая схема")[
   #line-by-line[
     - *Генерация ключей:* С помощью генератора случаных чисел создаются открытый ($P$) и закрытый ($S$) ключи
@@ -208,12 +208,20 @@
   #only(2)[
     #side-by-side[
       #rect(fill: gray)[
-        #image("img/block-chain.svg", width: 100%)
+        #image("img/transaction.svg", width: 100%)
       ]
     ][
       - $sum "In" = sum "Out"$
       - Биткоины из входных транзакций полностью переводятся в выходные
       - Для "сдачи" адрес отправителя включается в _выходы_ транзакции
+    ]
+  ]
+]
+
+#slide(title: "Цепочка транзакций")[
+  #align(center)[
+    #rect(fill: gray)[
+      #image("img/transaction-chain.svg", width: 70%)
     ]
   ]
 ]
@@ -243,6 +251,7 @@
       table.header(
         [*Поле*], [*Значение*],
       ),
+      "Timestamp (не показано)", "Время генерации этого блока",
       "Prev Hash", "Хеш предыдущего блока",
       "Nonce", "Значение, которое нужно подобрать",
       "Difficulty (не показано)", "количество нулей, которое должно быть у хеша этого блока",
