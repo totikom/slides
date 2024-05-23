@@ -9,7 +9,7 @@
 #let qr(caption, name, href, size) = link(href, figure(
   caption: caption,
   numbering: none,
-  image("img/qr/" + name + ".png", width: size),
+  image("figures/qr/" + name + ".png", width: size),
 ))
 
 #let clickable-qrs-footer = [
@@ -50,10 +50,10 @@
 
 #slide(title: "Обмен в доцифровую эпоху")[
   #side-by-side[
-    #image("img/coins.jpg", width: 100%)
+    #image("figures/coins.jpg", width: 100%)
   ][
     #uncover("2-")[
-      #image("img/cheque.jpg", width: 100%)
+      #image("figures/cheque.jpg", width: 100%)
     ]
   ]
 ]
@@ -66,7 +66,7 @@
       ]
     ]
   ][
-    #image("img/card.png", width: 100%)
+    #image("figures/card.png", width: 100%)
   ]
 ]
 
@@ -105,7 +105,7 @@
 #slide(title: "Новая модель приватности")[
   #align(center)[
     #rect(fill: gray)[
-      #image("img/privacy-model.svg", width: 100%)
+      #image("figures/privacy-model.svg", width: 100%)
     ]
   ]
 ]
@@ -118,7 +118,7 @@
       - Невозможность тратить одни и те же деньги несколько раз
     ]
   ][
-    #image("img/cheque.jpg", width: 100%)
+    #image("figures/cheque.jpg", width: 100%)
   ]
 ]
 
@@ -194,7 +194,7 @@
 #slide(title: "Цепочка транзакций")[
   #align(center)[
     #rect(fill: gray)[
-      #image("img/transaction-chain.svg", width: 70%)
+      #image("figures/transaction-chain.svg", width: 70%)
     ]
   ]
 ]
@@ -202,13 +202,13 @@
 #slide(title: "Устройство транзакции")[
   #only(1)[
     #rect(fill: gray)[
-      #image("img/transaction.svg", width: 100%)
+      #image("figures/transaction.svg", width: 100%)
     ]
   ]
   #only(2)[
     #side-by-side[
       #rect(fill: gray)[
-        #image("img/transaction.svg", width: 100%)
+        #image("figures/transaction.svg", width: 100%)
       ]
     ][
       - $sum "In" = sum "Out"$
@@ -221,7 +221,7 @@
 #slide(title: "Цепочка транзакций")[
   #align(center)[
     #rect(fill: gray)[
-      #image("img/transaction-chain.svg", width: 70%)
+      #image("figures/transaction-chain.svg", width: 70%)
     ]
   ]
 ]
@@ -229,7 +229,7 @@
 #slide(title: "Цепочка блоков")[
   #align(center)[
     #rect(fill: gray)[
-      #image("img/block-chain.svg", width: 100%)
+      #image("figures/block-chain.svg", width: 100%)
     ]
   ]
 ]
@@ -263,9 +263,9 @@
 #slide(title: "Хранение списка транзакций")[
   #align(center)[
     #side-by-side[
-      #image("img/merkle-full.svg", width: 70%)
+      #image("figures/merkle-full.svg", width: 70%)
     ][
-      #image("img/merkle-cut.svg", width: 70%)
+      #image("figures/merkle-cut.svg", width: 70%)
     ]
   ]
 ]
@@ -274,7 +274,7 @@
   #align(center)[
     #rotate(90deg, origin: center, reflow: true)[
       #rect(fill: gray)[
-        #image("img/sidechains.svg", width: 100%)
+        #image("figures/sidechains.svg", width: 100%)
       ]
     ]
   ]
@@ -299,14 +299,14 @@
     - $Delta = -16 (4 a^3 +27 b^2) != 0$
   ][
     #rect(fill: gray)[
-      #image("img/EC.svg", width: 100%)
+      #image("figures/EC.svg", width: 100%)
     ]
   ]
 ]
 
 #slide(title: "Эллиптические кривые: закон сложения точек")[
   #rect(fill: gray)[
-    #image("img/EC-addition.svg", width: 100%)
+    #image("figures/EC-addition.svg", width: 100%)
   ]
 ]
 
