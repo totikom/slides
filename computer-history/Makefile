@@ -6,6 +6,9 @@ output = slides.pdf
 
 all: compile
 
+open: compile
+	zathura target/$(output) > /dev/null 2> /dev/null & 
+
 compile: $(sources) $(figures) target
 	typst compile $(main_source) target/$(output)
 
