@@ -120,6 +120,12 @@
   - обратные тригонометрические: $arcsin$, $arccos$...
 ]
 
+#slide(title: "А что вообще считали?")[
+  - Различные системы уравнений для физики
+  - Таблицы для стрельбы. War never changes.
+  - Деньги конечно же!
+]
+
 #slide(title: "А как их считать?")[
   Ряд Тейлора:
   #only(1)[
@@ -136,17 +142,7 @@
     $
   ]
 ]
-#slide(title: "Разностная хитрость")[
-  $
-  P(x) = x^n
-  $
-  $
-  P(x+a) - P(x) &= (x + a)^n - x^n \
-  &= x^n + C_n^1 a x^(n-1) + C_n^2 a^2 x^(n-2) + ... - x^n \
-  &= b_(n-1)x^(n_1) + b_(n-2)x^(n-2) + ...
-  $
 
-]
 #slide(title: "Разностная хитрость")[
   $
   P(n) = n^4, n= 1,2...
@@ -159,10 +155,111 @@
   $
 ]
 
-#slide(title: "А что вообще считали?")[
-  - Различные системы уравнений для физики
-  - Таблицы для стрельбы. War never changes.
-  - Деньги конечно же!
+#slide(title: "Разностная хитрость")[
+  $
+  P(x) = x^n
+  $
+  $
+  P(x+a) - P(x) &= (x + a)^n - x^n \
+  &= x^n + C_n^1 a x^(n-1) + C_n^2 a^2 x^(n-2) + ... - x^n \
+  &= b_(n-1)x^(n-1) + b_(n-2)x^(n-2) + ...
+  $
+]
+
+#slide(title: "Чарльз Беббидж")[
+  #side-by-side()[
+     1791-1871, Англия
+     - окончил Тринити-колледж
+     - занимался теорией функций
+     - внёс значительный вклад в металлообработку и развитие железной дороги в Великобритании
+
+  ][
+    #align(center)[
+      #image("figures/CharlesBabbage.jpg")
+    ]
+  ]
+]
+
+#slide(title: "Разностная машина")[
+  #align(center)[
+    #only(1)[
+      #image("figures/difference-engine.jpg")
+    ]
+    #only(2)[
+      #image("figures/difference-engine-closeup.jpg")
+    ]
+    #only(3)[
+      #qr("How Babbage's Difference Engine No. 2 Works",
+      "diff_engine",
+      "https://www.youtube.com/playlist?list=PLSOxgHhh6-o8ZuhRpL9ds8wM4doxauru-", 40%)
+    ]
+  ]
+]
+
+#slide(title: "Аналитическая машина")[
+  #side-by-side()[
+    - "мельница": сложение, вычитание, умножение
+    - "контора": выбор операций
+    - "склад": выбор ячеек памяти, откуда берутся данные
+    - Загрузка и выгрузка данных на перфокарты
+  ][
+    #align(center)[
+      #image("figures/analytical-engine.jpg")
+    ]
+  ]
+]
+
+#slide(title: "Аналитическая машина")[
+    #align(center)[
+      #image("figures/steampunk.png")
+    ]
+]
+
+#slide(title: "Алло?")[
+  У механических вычислительных машин был целый ворох недостатков:
+  - Низкая скорость
+  - Сложность изготовления и отладки
+  - Очень низкая надежность
+  - Большие габариты
+  Где взять новую элементную базу?
+]
+
+#slide(title: "Алло!")[
+  Электромеханические реле -- очевидная основа для создания вентилей.
+    #align(center)[
+      #image("figures/relay.png")
+    ]
+]
+
+#slide(title: "Z1")[
+    #align(center)[
+      #image("figures/Z1.jpg")
+    ]
+]
+
+#slide(title: "Клапан Флеминга")[
+    #align(center)[
+      #image("figures/flemming.png")
+    ]
+]
+
+#slide(title: "Компьютер Атанасова-Берри")[
+  #align(center)[
+    #only(1)[
+      #image("figures/abc.png")
+    ]
+    #only(2)[
+      #image("figures/basic_block.png")
+    ]
+  ]
+]
+
+#slide(title: "Mark I")[
+  #align(center)[
+    #only(1)[
+      #image("figures/MARK_I.png")
+    ]
+  ]
 ]
 
 #slide(title: "Ссылки", footer: clickable-qrs-footer)[
