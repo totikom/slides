@@ -175,7 +175,7 @@
 
   ][
     #align(center)[
-      #image("figures/CharlesBabbage.jpg")
+      #image("figures/CharlesBabbage.jpg", height: 140%)
     ]
   ]
 ]
@@ -183,10 +183,10 @@
 #slide(title: "Разностная машина")[
   #align(center)[
     #only(1)[
-      #image("figures/difference-engine.jpg")
+      #image("figures/difference-engine.jpg", height: 140%)
     ]
     #only(2)[
-      #image("figures/difference-engine-closeup.jpg")
+      #image("figures/difference-engine-closeup.jpg", height: 140%)
     ]
     #only(3)[
       #qr("How Babbage's Difference Engine No. 2 Works",
@@ -211,7 +211,7 @@
 
 #slide(title: "Аналитическая машина")[
     #align(center)[
-      #image("figures/steampunk.png")
+      #image("figures/steampunk.png", height: 140%)
     ]
 ]
 
@@ -227,29 +227,29 @@
 #slide(title: "Алло!")[
   Электромеханические реле -- очевидная основа для создания вентилей.
     #align(center)[
-      #image("figures/relay.png")
+      #image("figures/relay.png", height: 80%)
     ]
 ]
 
 #slide(title: "Z1")[
     #align(center)[
-      #image("figures/Z1.jpg")
+      #image("figures/Z1.jpg", height: 140%)
     ]
 ]
 
 #slide(title: "Клапан Флеминга")[
     #align(center)[
-      #image("figures/flemming.png")
+      #image("figures/flemming.png", height: 140%)
     ]
 ]
 
 #slide(title: "Компьютер Атанасова-Берри")[
   #align(center)[
     #only(1)[
-      #image("figures/abc.png")
+      #image("figures/abc.png", height: 140%)
     ]
     #only(2)[
-      #image("figures/basic_block.png")
+      #image("figures/basic_block.png", height: 140%)
     ]
   ]
 ]
@@ -257,8 +257,183 @@
 #slide(title: "Mark I")[
   #align(center)[
     #only(1)[
-      #image("figures/MARK_I.png")
+      #image("figures/MARK_I.png", height: 140%)
     ]
+    #only(2)[
+      #side-by-side()[
+        #image("figures/MARK_I_constants.png", height: 60%)
+        #image("figures/MARK_I_ALU.png", height: 60%)
+      ][
+        #image("figures/MARK_I_storage_counters.png", height: 60%)
+        #image("figures/MARK_I_data.png", height: 60%)
+      ]
+    ]
+  ]
+]
+
+#slide(title: "ENIAC")[
+  #align(center)[
+    #only(1)[
+    #image("figures/eniac.png", height: 140%)
+  ]
+    #only(2)[
+    #image("figures/eniac_scheme.png", height: 140%)
+  ]
+  ]
+]
+
+#slide(title: [... и его программисты])[
+  #align(center)[
+    #image("figures/eniac_programmers.png", height: 140%)
+  ]
+]
+
+#slide(title: "EDVAC")[
+  #align(center)[
+    #image("figures/edvac.png", height: 140%)
+  ]
+]
+
+#slide(title: "Архитектура фон Неймана")[
+  1. Использование двоичного представления чисел.
+  2. Программное управление ЭВМ.
+  3. Использование памяти компьютера не только для хранения данных но и для хранения команд.
+  4. Ячейки памяти ЭВМ последовательно адресованы.
+  5. Возможен условный переход в процессе исполнения программы.
+]
+
+#slide(title: [Нам бы реле, работающее со скоростью лампы...])[
+  #align(center)[
+    #image("figures/transistor.png", height: 120%)
+  ]
+]
+
+#slide(title: [Почувствуйте разницу:])[
+  #align(center)[
+    #side-by-side()[
+      #image("figures/cdc6600.png", height: 120%)
+    ][
+      #image("figures/edvac.png", height: 120%)
+    ]
+  ]
+]
+
+#slide(title: [CDC6600])[
+  #align(center)[
+    #only(1)[
+      #image("figures/cdc6600.jpg", height: 140%)
+    ]
+    #only(2)[
+      #image("figures/cdc_part.png", height: 140%)
+    ]
+  ]
+]
+
+#slide(title: [Задолбался я паять ваши транзиторы...])[
+  #align(center)[
+    #image("figures/ic_transistor.png", height: 120%)
+  ]
+]
+
+#slide(title: [IBM S/360])[
+  #align(center)[
+    #only(1)[
+      #image("figures/ibm_s360_part.png", height: 140%)
+    ]
+    #only(2)[
+      #image("figures/ibm_s360.png", height: 140%)
+    ]
+  ]
+]
+
+#slide(title: [Cray-1])[
+  #align(center)[
+    #only(1)[
+      #side-by-side()[
+        #image("figures/cray-1.png", height: 140%)
+      ][
+        #image("figures/cray-1_ad.png", height: 140%)
+      ]
+    ]
+    #only(2)[
+      #image("figures/cray-1_arch.png", height: 140%)
+    ]
+  ]
+]
+
+#slide(title: [микросхем чего-то много...])[
+  #align(center)[
+    #side-by-side()[
+      #image("figures/Bender.png", height: 120%)
+    ][
+      #image("figures/Fry-money.png", width: 100%)
+      Busicom
+    ]
+  ]
+]
+
+#slide(title: [Intel 4004])[
+  #align(center)[
+    #only(1)[
+      #rect(fill: gray, height: 140%)[
+        #image("figures/intel4004.png", height: 100%)
+      ]
+    ]
+    #only(2)[
+      #image("figures/intel4004_die.png", height: 140%)
+    ]
+  ]
+]
+
+#slide(title: [X86 rising])[
+  #align(center)[
+        #image("figures/8086.png", height: 140%)
+    ]
+]
+
+#slide(title: [Intel 8086])[
+  #align(center)[
+    #only(1)[
+      #rect(fill: gray, height: 140%)[
+        #image("figures/8086_arch.png", height: 100%)
+      ]
+    ]
+    #only(2)[
+      #image("figures/8086_die.png", height: 140%)
+    ]
+  ]
+]
+
+#slide(title: [И понеслось...])[
+  #align(center)[
+    #image("figures/moores_law.png", height: 140%)
+  ]
+]
+
+#slide(title: [Intel Raptor Lake (2022)])[
+  #align(center)[
+    #only(1)[
+      #image("figures/raptor.png", height: 120%)
+    ]
+    #only(2)[
+      #image("figures/raptor_layout.png", height: 120%)
+    ]
+    #only(3)[
+      #side-by-side()[
+        #image("figures/raptor_sys.png", height: 120%)
+      ][
+        #image("figures/raptor_sys_layout.png", height: 120%)
+      ]
+    ]
+    #only(4)[
+      #image("figures/raptor_gpu.png", height: 120%)
+    ]
+  ]
+]
+
+#slide(title: [Вопросы?])[
+  #align(center)[
+    #image("figures/Fry.png", height: 120%)
   ]
 ]
 
