@@ -16,8 +16,8 @@ make watch
 make clean
 ```
 
-## [Что такое блокчейн?](2024-05-01-turing-blockchain)
-[video](https://youtu.be/8OB97iBm31I?si=Wv_4aLTUeiXQy0v0)
+## Что такое блокчейн?
+[subfolder](2024-05-01-turing-blockchain) [video](https://youtu.be/8OB97iBm31I?si=Wv_4aLTUeiXQy0v0) [slides](https://totikom.github.io/slides/2024-05-01-turing-blockchain.pdf)
 
 # Legal notice
 Contents of this presentation are licenced under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/ or check out [LICENCE](LICENCE) file.
