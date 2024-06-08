@@ -440,7 +440,7 @@
 #slide(title: "Ссылки", footer: clickable-qrs-footer)[
   #set align(center + horizon)
   #stack(dir: ltr, spacing: 5%,
-  qr("На меня", "totikom", "https://totikom.github.io/", 30%),
+  qr("На слайды", "slides", "https://totikom.github.io/slides/2024-06-08-computer-history.pdf", 30%),
   qr([На канал "Леса"], "forest", "https://t.me/forest_school_am", 30%),
   qr([На "ФизЛес"], "fiz_forest" ,"https://t.me/physicists_in_the_forest", 30%),
 )
