@@ -49,7 +49,7 @@
 ]
 
 #focus-slide[
-  Часть 1: Навигация
+  Часть 1: Навигация и календарь
 ]
 
 #slide(title: "Первые механичекие вычислители")[
@@ -237,9 +237,21 @@
     ]
 ]
 
+#slide(title: "Z3")[
+    #align(center)[
+      #image("figures/Z3.jpg", height: 140%)
+    ]
+]
+
 #slide(title: "Клапан Флеминга")[
     #align(center)[
       #image("figures/flemming.png", height: 140%)
+    ]
+]
+
+#slide(title: "Аудион")[
+    #align(center)[
+      #image("figures/audion.png", height: 140%)
     ]
 ]
 
